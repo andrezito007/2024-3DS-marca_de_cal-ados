@@ -1,0 +1,47 @@
+{
+  "votacao": {
+    "total_votantes": 1000000,
+    "marcas": [
+      {
+        "marca": "Nike",
+        "votos": 250000
+      },
+      {
+        "marca": "Adidas",
+        "votos": 230000
+      },
+      {
+        "marca": "Puma",
+        "votos": 150000
+      },
+      {
+        "marca": "Reebok",
+        "votos": 120000
+      },
+      {
+        "marca": "New Balance",
+        "votos": 180000
+      },
+      {
+        "marca": "Vans",
+        "votos": 160000
+      },
+      {
+        "marca": "Converse",
+        "votos": 140000
+      },
+      {
+        "marca": "Asics",
+        "votos": 110000
+      },
+      {
+        "marca": "Hoka One One",
+        "votos": 130000
+      },
+      {
+        "marca": "Skechers",
+        "votos": 150000
+      }
+    ]
+  }
+}
